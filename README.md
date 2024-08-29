@@ -1,11 +1,10 @@
 
 ## Hi there! 👋 I'm Bartosz
 
-💚 Back-end Java Developer
-🌱 Eager to Grow in technology
-💹 I’m open for collaboration and work opportunities! 
-📗 Studying at the Warsaw University of Life Sciences (Computer Science 🤓💻)
-🌐 English (C1 - Advanced)
-🌐 Polish (native)
+💚 Back-end Java Developer <br/>
+🌱 Eager to Grow in technology <br/>
+💹 I’m open for collaboration and work opportunities! <br/> 
+📗 Studying at the Warsaw University of Life Sciences (Computer Science 🤓💻) <br/>
+🌐 English (C1 - Advanced) <br/>
+🌐 Polish (native) <br/>
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=banderan&show_icons=true&theme=radical)
