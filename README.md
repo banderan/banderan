@@ -17,7 +17,7 @@
 [Online Book Store API](https://github.com/banderan/jv-Online-Book-Store-API) - provides an API for managing books, categories, orders, and shopping carts, utilizing technologies like Spring Boot, JWT, and MySQL. The API supports CRUD operations and search functionalities, with detailed documentation accessible via Swagger for ease of use.<br> <br>
 [Car Sharing Service](https://github.com/c-s-s-MA-team/jv-Car-Sharing-Service-API) - provides an API for managing cars, rentals, users, payments, and authentication, leveraging technologies such as Spring Boot, JWT, and Stripe. The API includes secure endpoints for user management, car inventory, rentals, and payments, with comprehensive documentation available via Swagger. <br> <br>
 
-## 🍊 My Achivements on Codewars
+## 🍊 My Achievements on Codewars <br/> <br>
 
 [![Codewars Badge](https://www.codewars.com/users/banderan/badges/large)](https://www.codewars.com/users/banderan)
 
