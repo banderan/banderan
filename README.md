@@ -22,7 +22,7 @@
 [![Codewars Badge](https://www.codewars.com/users/banderan/badges/large)](https://www.codewars.com/users/banderan)
 
 
-#### 📊 My Stats:
+#### 📊 My Stats on GitHub:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=banderan&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=banderan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
