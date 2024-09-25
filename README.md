@@ -3,7 +3,7 @@
 🌱 Eager to Grow in technology <br/>
 💹 I’m open for collaboration and work opportunities! <br/>
 📗 Studying at the Warsaw University of Life Sciences (Computer Science 🤓💻) <br/>
-🌐 English (Intermediate+) <br/>
+🌐 English (B2) <br/>
 🌐 Polish (native) <br/>
 
 
