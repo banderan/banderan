@@ -1,30 +1,31 @@
-# 💫 Hi, I'm Bartosz:
-💚 Back-end Java Developer <br/>
-🌱 Eager to Grow in technology <br/>
-💹 I’m open for collaboration and work opportunities! <br/>
-📗 Studying at the Warsaw University of Life Sciences (Computer Science 🤓💻) <br/>
-🌐 English (B2) <br/>
-🌐 Polish (native) <br/>
+# 💫 Hi, I'm Bartosz
 
+💚 Backend Java Developer — Spring Boot · PostgreSQL · fintech background (Citibank, Asseco/PKO)<br/>
+🚀 Currently building **Relay** — a SaaS platform, solo, in production: [connect.relay4u.eu](https://www.connect.relay4u.eu/)<br/>
+📗 Computer Science @ Warsaw University of Life Sciences (part-time)<br/>
+💹 Open to backend/Java opportunities<br/>
+🌐 Polish (native) · English (B2)
 
-### 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bartosz-wojcik-back-end-java-dev/) 
- [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@BartoszW%C3%B3jcik-IT) 
+### 🌐 Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bartosz-wojcik-back-end-java-dev/)
 
-### 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+### 💻 Tech Stack
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![COBOL](https://img.shields.io/badge/COBOL-%23000000.svg?style=for-the-badge&logo=ibm&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Spring%20Security](https://img.shields.io/badge/spring%20security-6DB33F.svg?style=for-the-badge&logo=springsecurity&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230078D4.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![GitHub%20Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-### 💻 Projects
-[Online Book Store API](https://github.com/banderan/jv-Online-Book-Store-API) - provides an API for managing books, categories, orders, and shopping carts, utilizing technologies like Spring Boot, JWT, and MySQL. The API supports CRUD operations and search functionalities, with detailed documentation accessible via Swagger for ease of use.<br> <br>
-[Car Sharing Service](https://github.com/c-s-s-MA-team/jv-Car-Sharing-Service-API) - provides an API for managing cars, rentals, users, payments, and authentication, leveraging technologies such as Spring Boot, JWT, and Stripe. The API includes secure endpoints for user management, car inventory, rentals, and payments, with comprehensive documentation available via Swagger. <br> <br>
-[Investment-Portfolio-Api](https://github.com/investment-api-B/investment-Portfolio-Api) - The Investment-Portfolio API provides users with a comprehensive platform for managing investments, tracking stock portfolios, checking inflation rates, and securely handling payments through Stripe integration. This API supports both users and administrators, ensuring accurate and secure portfolio management with a robust set of features. <br> <br>
+### 🚀 Featured Project
 
-### 🍊 My Achievements on Codewars <br/> <br>
+**[Relay](https://github.com/prospect-tool-relay4u-eu) · [live](https://www.connect.relay4u.eu/)** — Solo-built SaaS backend: Java 21, Spring Boot 4, PostgreSQL (schema-less, JSONB-based), JWT + Argon2 security, full CI/CD via GitHub Actions deployed to GCP Cloud Run. Everything from architecture to security to deployment — owned end-to-end.
 
+### 💻 Other Projects
+
+[Online Book Store API](https://github.com/banderan/jv-Online-Book-Store-API) — Spring Boot API for book catalog, orders, and shopping carts with JWT auth, Liquibase migrations, and Testcontainers-based integration tests; deployed to AWS EC2 with Swagger docs.<br/>
+[Car Sharing Service API](https://github.com/c-s-s-MA-team/jv-Car-Sharing-Service-API) — Rental platform with role-based access, end-to-end Stripe payments, and a Telegram bot for rental status alerts.<br/>
+[Investment Portfolio API](https://github.com/investment-api-B/investment-Portfolio-Api) — Stock portfolio management with an inflation-adjusted investment calculator, PLN currency normalization, and Stripe-secured transactions.
+
+### 🍊 Codewars
 [![Codewars Badge](https://www.codewars.com/users/banderan/badges/large)](https://www.codewars.com/users/banderan)
 
-
-#### 📊 My Stats on GitHub:
+### 📊 GitHub Stats
 ![](https://github-readme-streak-stats.herokuapp.com/?user=banderan&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=banderan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
