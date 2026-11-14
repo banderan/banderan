@@ -1,7 +1,6 @@
 # 💫 Hi, I'm Bartosz
 
 💚 Backend Java Developer — Spring Boot · PostgreSQL · fintech background (Citibank, Asseco/PKO)<br/>
-🚀 Currently building **Relay** — a SaaS platform, solo, in production: [connect.relay4u.eu](https://www.connect.relay4u.eu/)<br/>
 📗 Computer Science @ Warsaw University of Life Sciences (part-time)<br/>
 💹 Open to backend/Java opportunities<br/>
 🌐 Polish (native) · English (B2)
